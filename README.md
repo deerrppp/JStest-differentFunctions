@@ -1,1 +1,2 @@
 # JStest-differentFunctions
+A building block lesson from MDN Web Docs about different functions. Lesson is found here: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions
