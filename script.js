@@ -1,7 +1,7 @@
 const textBox = document.querySelector("#textBox")
 const output = document.querySelector("#output");
 
-// ----ANONYMOUS FUNCTION---- 
+// ----ANONYMOUS FUNCTION----
 function logKey(event) {
     output.textContent = `You pressed "${event.key}".`;
 }
